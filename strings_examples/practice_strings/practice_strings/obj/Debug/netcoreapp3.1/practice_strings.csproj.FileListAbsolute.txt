@@ -1,0 +1,14 @@
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.exe
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.deps.json
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.runtimeconfig.json
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.dll
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\bin\Debug\netcoreapp3.1\practice_strings.pdb
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.dll
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.pdb
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.genruntimeconfig.cache
+C:\Users\Mallika\c#practice\strings_examples\practice_strings\practice_strings\obj\Debug\netcoreapp3.1\practice_strings.csproj.AssemblyReference.cache

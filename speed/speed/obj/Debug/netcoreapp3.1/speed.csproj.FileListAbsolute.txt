@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.exe
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.deps.json
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.runtimeconfig.json
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.dll
+C:\Users\Mallika\c#practice\speed\speed\bin\Debug\netcoreapp3.1\speed.pdb
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.dll
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.pdb
+C:\Users\Mallika\c#practice\speed\speed\obj\Debug\netcoreapp3.1\speed.genruntimeconfig.cache

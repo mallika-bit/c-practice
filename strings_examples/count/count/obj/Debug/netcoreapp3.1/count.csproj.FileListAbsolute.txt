@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.exe
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.deps.json
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.runtimeconfig.json
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.dll
+C:\Users\Mallika\c#practice\strings_examples\count\count\bin\Debug\netcoreapp3.1\count.pdb
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.dll
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.pdb
+C:\Users\Mallika\c#practice\strings_examples\count\count\obj\Debug\netcoreapp3.1\count.genruntimeconfig.cache

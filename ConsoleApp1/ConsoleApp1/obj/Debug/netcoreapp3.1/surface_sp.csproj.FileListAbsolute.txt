@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.exe
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.deps.json
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.runtimeconfig.json
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.dll
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\surface_sp.pdb
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.dll
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.pdb
+C:\Users\Mallika\c#practice\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\surface_sp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.exe
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.deps.json
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.runtimeconfig.json
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.dll
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\bin\Debug\netcoreapp3.1\decimal_to_binary.pdb
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.dll
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.pdb
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.genruntimeconfig.cache
+C:\Users\Mallika\c#practice\decimal_to_binary\decimal_to_binary\obj\Debug\netcoreapp3.1\decimal_to_binary.csproj.AssemblyReference.cache

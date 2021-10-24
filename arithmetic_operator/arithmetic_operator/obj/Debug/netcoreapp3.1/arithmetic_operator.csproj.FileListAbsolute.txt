@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.exe
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.deps.json
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.runtimeconfig.json
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.dll
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\bin\Debug\netcoreapp3.1\arithmetic_operator.pdb
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.dll
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.pdb
+C:\Users\Mallika\c#practice\arithmetic_operator\arithmetic_operator\obj\Debug\netcoreapp3.1\arithmetic_operator.genruntimeconfig.cache

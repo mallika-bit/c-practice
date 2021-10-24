@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.exe
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.deps.json
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.runtimeconfig.json
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.dll
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\bin\Debug\netcoreapp3.1\circle_perimeter.pdb
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.dll
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.pdb
+C:\Users\Mallika\c#practice\circle_perimeter\circle_perimeter\obj\Debug\netcoreapp3.1\circle_perimeter.genruntimeconfig.cache

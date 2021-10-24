@@ -1,0 +1,14 @@
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.exe
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.deps.json
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.runtimeconfig.json
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.dll
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\bin\Debug\netcoreapp3.1\count_vowels.pdb
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.csproj.AssemblyReference.cache
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.dll
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.pdb
+C:\Users\Mallika\c#practice\strings_examples\count_vowels\count_vowels\obj\Debug\netcoreapp3.1\count_vowels.genruntimeconfig.cache

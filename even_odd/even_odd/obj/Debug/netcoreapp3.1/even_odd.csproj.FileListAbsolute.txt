@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.exe
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.deps.json
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.runtimeconfig.json
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.dll
+C:\Users\Mallika\c#practice\even_odd\even_odd\bin\Debug\netcoreapp3.1\even_odd.pdb
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.dll
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.pdb
+C:\Users\Mallika\c#practice\even_odd\even_odd\obj\Debug\netcoreapp3.1\even_odd.genruntimeconfig.cache

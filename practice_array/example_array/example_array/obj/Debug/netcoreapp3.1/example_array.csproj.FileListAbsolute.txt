@@ -1,0 +1,13 @@
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.exe
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.deps.json
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.runtimeconfig.json
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.dll
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\bin\Debug\netcoreapp3.1\example_array.pdb
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.dll
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.pdb
+C:\Users\Mallika\c#practice\practice_array\example_array\example_array\obj\Debug\netcoreapp3.1\example_array.genruntimeconfig.cache

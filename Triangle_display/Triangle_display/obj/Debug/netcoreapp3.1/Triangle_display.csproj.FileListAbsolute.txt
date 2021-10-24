@@ -1,0 +1,14 @@
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.exe
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.deps.json
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.runtimeconfig.json
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.dll
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\bin\Debug\netcoreapp3.1\Triangle_display.pdb
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.dll
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.pdb
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.genruntimeconfig.cache
+C:\Users\Mallika\c#practice\Triangle_display\Triangle_display\obj\Debug\netcoreapp3.1\Triangle_display.csproj.AssemblyReference.cache

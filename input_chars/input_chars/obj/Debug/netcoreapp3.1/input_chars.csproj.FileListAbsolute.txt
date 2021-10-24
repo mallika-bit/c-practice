@@ -1,0 +1,14 @@
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.exe
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.deps.json
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.runtimeconfig.json
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.runtimeconfig.dev.json
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.dll
+C:\Users\Mallika\c#practice\input_chars\input_chars\bin\Debug\netcoreapp3.1\input_chars.pdb
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.csproj.AssemblyReference.cache
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.AssemblyInfoInputs.cache
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.AssemblyInfo.cs
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.csproj.CoreCompileInputs.cache
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.dll
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.pdb
+C:\Users\Mallika\c#practice\input_chars\input_chars\obj\Debug\netcoreapp3.1\input_chars.genruntimeconfig.cache
